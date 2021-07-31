@@ -41,6 +41,12 @@ See [documentation](https://github.com/thoughtbot/factory_bot#documentation)
 
 ### simplecov
 
+SimpleCov is a code coverage analysis tool for Ruby. It uses Ruby's built-in Coverage library to gather code coverage data, but makes processing its results much easier by providing a clean API to filter, group, merge, format, and display those results, giving you a complete code coverage suite that can be set up with just a couple lines of code. SimpleCov/Coverage track covered ruby code, gathering coverage for common templating solutions like erb, slim and haml is not supported.
+
+See [documentation](https://github.com/simplecov-ruby/simplecov#getting-started)
+
+[Demo](https://youtu.be/uM762RLy99c)
+
 ### rubocop
 
 ### reek
