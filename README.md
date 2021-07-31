@@ -32,6 +32,12 @@ See [documentation](https://github.com/thoughtbot/factory_bot#documentation)
 
 ### Knapsack
 
+Knapsack splits tests evenly across parallel CI nodes to run fast CI build and save you time.
+
+[documentation](https://github.com/KnapsackPro/rails-app-with-knapsack#rails-app-with-knapsack)
+
+[Demo](https://docs.knapsackpro.com/2018/clean-rspec-configuration-directory-structure-for-ruby-on-rails-gems-needed-in-testing)
+
 ## Code Quality
 
 -   simplecov
