@@ -116,6 +116,12 @@ See [documentation](https://layerci.com/docs/home/what-is-layer)
 
 ### New Relic
 
+[New Relic](https://youtu.be/l0niBGRWk-A) One helps engineers create more perfect software. Instrument, analyze, troubleshoot, and optimize your entire software stack.
+
+[documentation](https://docs.newrelic.com/docs/agents/ruby-agent/installation/install-new-relic-ruby-agent/)
+
+[Demo](https://youtu.be/c-joU6-wi8U)
+
 ### Logentries
 
 ### Posthog
