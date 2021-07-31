@@ -49,6 +49,12 @@ See [documentation](https://github.com/simplecov-ruby/simplecov#getting-started)
 
 ### rubocop
 
+RuboCop is a Ruby static code analyzer (a.k.a. linter) and code formatter.
+
+See [documentation](https://github.com/rubocop/rubocop#documentation)
+
+[Demo](https://youtu.be/sfOGjcMVQ9U)
+
 ### reek
 
 Reek is a tool that examines Ruby classes, modules and methods and reports any Code Smells it finds.
