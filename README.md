@@ -47,6 +47,14 @@ See [documentation](https://github.com/thoughtbot/factory_bot#documentation)
 
 ### breakman
 
+Brakeman is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
+
+See [documentation](http://brakemanscanner.org/docs/)
+
+See [github brakeman](https://github.com/presidentbeef/brakeman#brakeman)
+
+[Demo](https://www.youtube.com/watch?v=DHHHnPwSY5I&t=3306s)
+
 ## Deploy
 
 -   LayerCI
