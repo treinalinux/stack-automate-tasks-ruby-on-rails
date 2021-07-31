@@ -79,6 +79,12 @@ See [github brakeman](https://github.com/presidentbeef/brakeman#brakeman)
 
 ### LayerCI
 
+Layer creates fully migrated environments in 10 seconds.
+
+See [documentation](https://layerci.com/docs/home/what-is-layer)
+
+[Demo](https://layerci.com/blog/may-2021-layerci-github-demo/)
+
 ### Github
 
 ### Heroku
