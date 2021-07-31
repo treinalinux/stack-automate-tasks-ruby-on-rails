@@ -105,6 +105,12 @@ See [documentation](https://layerci.com/docs/home/what-is-layer)
 
 ### Heroku
 
+Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
+
+See [documentation](https://www.heroku.com/ruby)
+
+[Demo](https://www.heroku.com/ruby#see-it-in-action)
+
 ## Monitoring
 
 -   Sentry
