@@ -1,11 +1,15 @@
 # Stack Automate Tasks for Ruby on Rails
 
+Here is basically an example stack for Ruby on Rails automation.
+
 Can split an stack for automate tasks in Ruby on Rails:
 
 -   Tests
 -   Code Quality
 -   Deploy
 -   Monitoring
+
+---
 
 ## Tests
 
