@@ -32,7 +32,7 @@ See [documentation](https://github.com/thoughtbot/factory_bot#documentation)
 
 Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
 
-[documentation](https://github.com/vcr/vcr#usage)
+See [documentation](https://github.com/vcr/vcr#usage)
 
 [Demo](https://youtu.be/kBKuHPdE5Kg)
 
@@ -40,7 +40,7 @@ Record your test suite's HTTP interactions and replay them during future test ru
 
 Knapsack splits tests evenly across parallel CI nodes to run fast CI build and save you time.
 
-[documentation](https://github.com/KnapsackPro/rails-app-with-knapsack#rails-app-with-knapsack)
+See [documentation](https://github.com/KnapsackPro/rails-app-with-knapsack#rails-app-with-knapsack)
 
 [Demo](https://docs.knapsackpro.com/2018/clean-rspec-configuration-directory-structure-for-ruby-on-rails-gems-needed-in-testing)
 
@@ -116,7 +116,7 @@ See [documentation](https://layerci.com/docs/home/what-is-layer)
 
 From error tracking to performance monitoring, developers can see what actually matters, solve quicker, and learn continuously about their applications - from the frontend to the backend.
 
-[documentation](https://docs.sentry.io/platforms/ruby/guides/rails/)
+See [documentation](https://docs.sentry.io/platforms/ruby/guides/rails/)
 
 [Demo](https://youtu.be/jBwYW1TotfQ)
 
@@ -124,7 +124,7 @@ From error tracking to performance monitoring, developers can see what actually 
 
 [New Relic](https://youtu.be/l0niBGRWk-A) One helps engineers create more perfect software. Instrument, analyze, troubleshoot, and optimize your entire software stack.
 
-[documentation](https://docs.newrelic.com/docs/agents/ruby-agent/installation/install-new-relic-ruby-agent/)
+See [documentation](https://docs.newrelic.com/docs/agents/ruby-agent/installation/install-new-relic-ruby-agent/)
 
 [Demo](https://youtu.be/c-joU6-wi8U)
 
@@ -132,7 +132,7 @@ From error tracking to performance monitoring, developers can see what actually 
 
 The Fastest Way to Analyze Your Log Data. No complex setup. No waiting. Just answers.
 
-[documentation](https://docs.logentries.com/docs/ruby)
+See [documentation](https://docs.logentries.com/docs/ruby)
 
 [Demo](https://docs.logentries.com/docs/ruby)
 
@@ -140,6 +140,6 @@ The Fastest Way to Analyze Your Log Data. No complex setup. No waiting. Just ans
 
 The platform for building better products. Analytics with autocapture, session recordings, feature flags, heatmaps and more. In a single product you can host yourself.
 
-[documentation](https://posthog.com/docs)
+See [documentation](https://posthog.com/docs)
 
 [Demo](https://posthog.com/docs/tutorials/feature-flags)
