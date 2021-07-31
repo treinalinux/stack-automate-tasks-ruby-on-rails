@@ -87,6 +87,8 @@ See [documentation](https://layerci.com/docs/home/what-is-layer)
 
 [Academy](https://layerci.com/academy/)
 
+[rails](https://layerci.com/docs/examples/rails)
+
 ### Github
 
 ### Heroku
