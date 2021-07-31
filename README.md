@@ -51,6 +51,10 @@ See [documentation](https://github.com/simplecov-ruby/simplecov#getting-started)
 
 ### reek
 
+Reek is a tool that examines Ruby classes, modules and methods and reports any Code Smells it finds.
+
+See [documentation](https://github.com/troessner/reek/#quickstart)
+
 ### breakman
 
 Brakeman is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
