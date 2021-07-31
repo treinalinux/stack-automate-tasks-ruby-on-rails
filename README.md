@@ -130,6 +130,10 @@ From error tracking to performance monitoring, developers can see what actually 
 
 ### Logentries
 
-### Posthog
+The Fastest Way to Analyze Your Log Data. No complex setup. No waiting. Just answers.
+
+[documentation](https://docs.logentries.com/docs/ruby)
+
+[Demo](https://docs.logentries.com/docs/ruby)
 
 ### Posthog
