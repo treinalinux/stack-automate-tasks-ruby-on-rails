@@ -114,6 +114,12 @@ See [documentation](https://layerci.com/docs/home/what-is-layer)
 
 ### Sentry
 
+From error tracking to performance monitoring, developers can see what actually matters, solve quicker, and learn continuously about their applications - from the frontend to the backend.
+
+[documentation](https://docs.sentry.io/platforms/ruby/guides/rails/)
+
+[Demo](https://youtu.be/jBwYW1TotfQ)
+
 ### New Relic
 
 [New Relic](https://youtu.be/l0niBGRWk-A) One helps engineers create more perfect software. Instrument, analyze, troubleshoot, and optimize your entire software stack.
@@ -123,5 +129,7 @@ See [documentation](https://layerci.com/docs/home/what-is-layer)
 [Demo](https://youtu.be/c-joU6-wi8U)
 
 ### Logentries
+
+### Posthog
 
 ### Posthog
