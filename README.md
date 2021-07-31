@@ -103,6 +103,12 @@ See [documentation](https://layerci.com/docs/home/what-is-layer)
 
 ### Github
 
+GitHub is where over 65 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories
+
+See [documentation](https://docs.github.com/en)
+
+[Demo](https://docs.github.com/en/get-started/quickstart)
+
 ### Heroku
 
 Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
