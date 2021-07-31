@@ -137,3 +137,9 @@ The Fastest Way to Analyze Your Log Data. No complex setup. No waiting. Just ans
 [Demo](https://docs.logentries.com/docs/ruby)
 
 ### Posthog
+
+The platform for building better products. Analytics with autocapture, session recordings, feature flags, heatmaps and more. In a single product you can host yourself.
+
+[documentation](https://posthog.com/docs)
+
+[Demo](https://posthog.com/docs/tutorials/feature-flags)
