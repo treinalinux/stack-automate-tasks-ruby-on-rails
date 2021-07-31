@@ -30,6 +30,12 @@ See [documentation](https://github.com/thoughtbot/factory_bot#documentation)
 
 ### VCR
 
+Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
+
+[documentation](https://github.com/vcr/vcr#usage)
+
+[Demo](https://youtu.be/kBKuHPdE5Kg)
+
 ### Knapsack
 
 Knapsack splits tests evenly across parallel CI nodes to run fast CI build and save you time.
