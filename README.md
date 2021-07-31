@@ -85,6 +85,8 @@ See [documentation](https://layerci.com/docs/home/what-is-layer)
 
 [Demo](https://layerci.com/blog/may-2021-layerci-github-demo/)
 
+[Academy](https://layerci.com/academy/)
+
 ### Github
 
 ### Heroku
